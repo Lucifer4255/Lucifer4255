@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 About Me
 - 🌱 Currently learning: Advanced algorithms and machine learning
 - 💼 Working on: Exciting open-source projects
-- 📫 How to reach me: [Your Email](mailto:deysuhotra@gmail.com)
+- 📫 How to reach me: [Suhotra Dey](mailto:deysuhotra@gmail.com)
 - 💬 Ask me about: Python, JavaScript, and web development
 
 ## 🛠️ Languages and Tools
@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🔭 Projects
 Here are some projects I'm proud of:
 
-- [**Project Name**](https://github.com/Lucifer4255/project-name): A brief description of what this project does.
-- [**Another Project**](https://github.com/Lucifer4255/another-project): A brief description of what this project does.
+- [**Board.io**](https://github.com/Lucifer4255/Board.io): A free drawing canvas for your daily rough works and calculations 
+<!-- - [**Another Project**](https://github.com/Lucifer4255/another-project): A brief description of what this project does. -->
 
 ## 📈 GitHub Stats
 ![Lucifer4255's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucifer4255&show_icons=true&theme=radical)
@@ -33,7 +33,7 @@ Here are some projects I'm proud of:
 <!--END_SECTION:activity-->
 
 ## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/suhotra-dey)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Blog](https://your-blog.com)
 
