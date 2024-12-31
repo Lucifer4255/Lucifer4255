@@ -1,0 +1,94 @@
+name: Update README with Recent Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # This runs the job every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install Dependencies
+        run: npm install @actions/github @octokit/rest
+
+      - name: Run Recent Activity Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node -e "
+          const { Octokit } = require('@octokit/rest');
+          const { createActionAuth } = require('@octokit/auth-action');
+          const octokit = new Octokit({
+            authStrategy: createActionAuth,
+          });
+          async function main() {
+            const { data: events } = await octokit.activity.listPublicEventsForUser({
+              username: 'Lucifer4255',
+              per_page: 5,
+            });
+            const activities = events.map(event => \`- \${event.type} at [\${event.repo.name}](https://github.com/\${event.repo.name})\`).join('\n');
+            const readme = \`
+
+# Hi there! 👋 I'm Lucifer4255
+
+Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects. Here's a bit about me:
+
+## 🚀 About Me
+- 🌱 Currently learning: Advanced algorithms and machine learning
+- 💼 Working on: Exciting open-source projects
+- 📫 How to reach me: [Suhotra Dey](mailto:deysuhotra@gmail.com)
+- 💬 Ask me about: Python, JavaScript, and web development
+
+## 🛠️ Languages and Tools
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, Kubernetes, AWS
+
+## 🔭 Projects
+Here are some projects I'm proud of:
+
+- [**Board.io**](https://github.com/Lucifer4255/Board.io): A free drawing canvas for your daily rough works and calculations 
+<!-- - [**Another Project**](https://github.com/Lucifer4255/another-project): A brief description of what this project does. -->
+
+## 📈 GitHub Stats
+![Lucifer4255's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucifer4255&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Lucifer4255&theme=onedark)
+
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer4255&layout=compact&theme=radical)
+
+## 🚀 Recent Activity
+START_SECTION:activity
+END_SECTION:activity
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/suhotra-dey)
+# - [Twitter](https://twitter.com/your-twitter-handle)
+# - [Blog](https://your-blog.com)
+
+Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas.
+\`;
+            require('fs').writeFileSync('README.md', readme);
+          }
+          main();
+          "
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          timestamp=$(date -u)
+          git commit -m "Updated recent activity - ${timestamp}"
+          git push
