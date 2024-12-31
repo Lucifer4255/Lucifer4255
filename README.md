@@ -5,9 +5,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 About Me
 - 🌱 Currently learning: Advanced algorithms and machine learning
 - 💼 Working on: Exciting open-source projects
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Your Email](mailto:deysuhotra@gmail.com)
 - 💬 Ask me about: Python, JavaScript, and web development
-- 😄 Pronouns: They/Them
 
 ## 🛠️ Languages and Tools
 - **Languages:** Python, JavaScript, Java, C++
