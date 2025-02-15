@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌱 Currently learning: Advanced algorithms and machine learning
 - 💼 Working on: Exciting open-source projects
 - 📫 How to reach me: [Suhotra Dey](mailto:deysuhotra@gmail.com)
-- 💬 Ask me about: Python, JavaScript, and web development
+- 💬 Ask me about: Java, Python, JavaScript, and web development
 
 ## 🛠️ Languages and Tools
 - **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Flask
+- **Frameworks:** React, Node.js, Django, Spring Boot, Nest JS, Next JS
 - **Tools:** Git, Docker, Kubernetes, AWS
 
 ## 🔭 Projects
