@@ -28,10 +28,6 @@ Here are some projects I'm proud of:
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer4255&layout=compact&theme=radical)
 
-## 🚀 Recent Activity
-START_SECTION:activity
-END_SECTION:activity
-
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/suhotra-dey)
 <!-- - [Twitter](https://twitter.com/your-twitter-handle) -->
