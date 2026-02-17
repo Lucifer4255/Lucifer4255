@@ -1,96 +1,51 @@
 # Hey 👋 I'm Suhotra (Biley)
 
-Backend-focused Software Engineer building AI-powered systems and scalable backend infrastructure.
+Backend-focused Software Engineer building AI-powered systems and scalable infrastructure.
 
-Currently working in Legal AI, building LLM-powered applications and exploring Go for high-performance systems.
+Currently working in Legal AI, building LLM-powered applications and exploring Go for high-performance backend systems.
 
 ---
 
 ## 🚀 What I Do
 
-- 🧠 Build AI-powered applications (LLMs + embeddings)
-- 📊 Work with large-scale vector databases (Weaviate)
+- 🧠 AI-powered applications (LLMs + vector embeddings)
+- 📊 Large-scale semantic search with Weaviate
 - 🌐 Full-stack development using T3 Stack (Next.js + TypeScript)
 - ⚙️ Backend systems in Go & Java (Spring Boot)
-- 🛠️ Data migrations & performance optimization
-- 🔄 Streaming improvements & system reliability engineering
+- 🔄 Performance optimization & data migrations
 
 ---
 
 ## 🧠 Currently Exploring
 
-- Go (deep systems-level understanding)
-- Concurrency patterns & performance optimization
+- Deep dive into Go (concurrency, memory model, system design)
 - Distributed systems fundamentals
-- Building CLI tools & crawlers in Go
+- Building production-grade CLI tools & crawlers
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Go
-- TypeScript
-- Python
-- Java
-
-### Backend
-- FastAPI
-- Spring Boot
-- Node.js
-- PostgreSQL
-- Weaviate (Vector DB)
-
-### Frontend
-- Next.js (T3 Stack)
-- React
-- Tailwind
-
-### DevOps & Infra
-- Docker
-- Kubernetes
-- AWS
-- CI/CD Pipelines
+**Languages:** Go, TypeScript, Python, Java  
+**Backend:** FastAPI, Spring Boot, Node.js, PostgreSQL, Weaviate  
+**Frontend:** Next.js, React, Tailwind  
+**DevOps:** Docker, Kubernetes, AWS  
 
 ---
 
 ## 🔭 Featured Projects
 
-### 🕷️ Go Web Crawler
-Concurrent crawler built using:
-- Worker pools
-- Context cancellation
-- Job persistence layer
-- Clean architecture
-
-> Focused on learning production-grade Go patterns.
+- **Go Web Crawler** – Concurrent crawler with worker pools, job persistence & clean architecture.
+- **Chess.io** – Real-time interactive chess platform with integrated chat.
+- **Board.io** – Minimal collaborative drawing canvas for rough work & calculations.
 
 ---
-
-### ♟️ Chess.io
-Interactive real-time chess platform with chat functionality.
-
----
-
-### 🎨 Board.io
-Minimal collaborative drawing canvas for rough work & quick calculations.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucifer4255&show_icons=true&theme=tokyonight&count_private=true)
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer4255&layout=compact&theme=tokyonight&count_private=true)
-
 
 ## 🤝 Let's Connect
 
-- 📧 Email: deysuhotra@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/suhotra-dey
+- 📧 deysuhotra@gmail.com  
+- 💼 https://www.linkedin.com/in/suhotra-dey  
 
 ---
 
-⚡ Always building. Always learning. Always optimizing.
+⚡ Building scalable systems. Learning deeply. Optimizing constantly.
