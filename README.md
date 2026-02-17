@@ -41,10 +41,11 @@ Currently working in Legal AI, building LLM-powered applications and exploring G
 
 ---
 ## 📈 GitHub Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucifer4255&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-lucifer.vercel.app/api?username=Lucifer4255&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
 
 ## 📊 Top Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucifer4255&theme=tokyonight)
+![Top Languages](https://github-readme-stats-lucifer.vercel.app/api/top-langs/?username=Lucifer4255&layout=compact&theme=tokyonight&count_private=true&hide_border=true)
 
 
 ## 🤝 Let's Connect
