@@ -77,14 +77,14 @@ Minimal collaborative drawing canvas for rough work & quick calculations.
 
 ---
 
-## 🎯 Career Direction
+## 📈 GitHub Stats
 
-Transitioning toward:
-- Systems engineering
-- Backend-heavy roles
-- High-performance, scalable systems
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucifer4255&show_icons=true&theme=tokyonight&count_private=true)
 
----
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer4255&layout=compact&theme=tokyonight&count_private=true)
+
 
 ## 🤝 Let's Connect
 
