@@ -82,7 +82,6 @@ Minimal collaborative drawing canvas for rough work & quick calculations.
 Transitioning toward:
 - Systems engineering
 - Backend-heavy roles
-- European remote opportunities
 - High-performance, scalable systems
 
 ---
