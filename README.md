@@ -40,6 +40,14 @@ Currently working in Legal AI, building LLM-powered applications and exploring G
 - **Board.io** – Minimal collaborative drawing canvas for rough work & calculations.
 
 ---
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucifer4255&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer4255&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800)
+
 
 ## 🤝 Let's Connect
 
