@@ -40,13 +40,6 @@ Currently working in Legal AI, building LLM-powered applications and exploring G
 - **Board.io** – Minimal collaborative drawing canvas for rough work & calculations.
 
 ---
-## 📈 GitHub Stats
-
-![GitHub Stats](./github-readme-stats.svg)
-
-## 📊 Top Languages
-
-![Top Languages](./top-langs.svg)
 
 
 ## 🤝 Let's Connect
