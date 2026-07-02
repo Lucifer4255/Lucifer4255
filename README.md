@@ -33,14 +33,6 @@ Currently working in Legal AI, building LLM-powered applications and exploring G
 
 ---
 
-## 🔭 Featured Projects
-
-- **Go Web Crawler** – Concurrent crawler with worker pools, job persistence & clean architecture.
-- **Chess.io** – Real-time interactive chess platform with integrated chat.
-- **Board.io** – Minimal collaborative drawing canvas for rough work & calculations.
-
----
-
 
 ## 🤝 Let's Connect
 
